@@ -5,7 +5,7 @@ A simple program that organizes files in separate folders depending their extens
 
 ## Requirements 
 
-Python 3.6 or superior
+Python 3.6 or higher
 ## References
 
  - [W3C School](https://www.w3schools.com/python/default.asp)
@@ -13,5 +13,4 @@ Python 3.6 or superior
 
 ## Learning
 
-I've learned more about operations in the OS, like listing files, moving them, finding their extensions
-
+I've learned more about operations in the OS, like listing files, moving them, finding their extensions.
